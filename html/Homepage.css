@@ -1,0 +1,19 @@
+body{
+    background-image: url(../../Angela-cv/angela-cv/images/mountain.png);
+}
+h1{
+    color:maroon;
+font-size: 250%;
+}
+a{
+    font-size: 150%;
+    text-decoration: none;
+    color:blue;
+    width: 100%;
+    border-bottom: 5px brown solid;
+    text-transform: capitalize;
+/* margin: 20px; */
+}
+p{
+    margin-top: 20px;
+}

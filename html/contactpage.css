@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+    color: wheat;
+}
+
+h1{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+color:tomato;
+text-shadow: turquoise 2px 2px 1px;
+}
+input{
+    font-size: 18px;
+    border: 3px solid gray;
+    color: white;
+    background-color: rebeccapurple;
+}
+label{
+    font-size: 23px;
+    color: springgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+textarea{
+    width: 200px;
+    background-color: greenyellow;
+    border: dashed 3px rebeccapurple;
+}
+::placeholder{
+    color: violet;
+}
+button{
+    background-image: url(../images/beautiful.jpg) ;
+}

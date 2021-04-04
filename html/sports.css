@@ -1,0 +1,21 @@
+body{
+    background: olive;
+   
+}
+h1{
+    font-size: 250%;
+    color: orange;
+    text-shadow: orangered 1px 2px 2px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: orangered 5px solid;
+    margin-top: 20px;
+}
+button{
+ font-size: 100%;   
+ color: orangered;
+ text-shadow: green 1px 2px 2px;
+ margin-top: 10px;
+}
