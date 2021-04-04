@@ -1,0 +1,24 @@
+body{
+  background:turquoise;
+}
+h1{
+    color: whitesmoke;
+    width: 154px;
+    border: 4px solid hotpink;
+    background: lightseagreen;
+}
+hr{
+    color: violet;
+}
+img{
+    border:green 3px solid;
+    /* padding: 5px; */
+    margin: 5px;
+    width: 300px;
+    height: 200px;
+}
+button{
+    color: greenyellow;
+    background: url(../images/garments4.jpg);
+    margin-top: 15px;
+}

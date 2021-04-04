@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+    color: wheat;
+}
+h1{
+    text-shadow: yellow 1px 2px 2px;
+    
+}
+h2{
+    text-shadow: violet 1px 2px 2px;
+    font-size: 180%;
+}
+label,b{
+    font-size: 130%;
+    text-shadow: turquoise 1px 2px 2px;
+}
+input,textarea,select{
+    border: turquoise 5px solid;
+    color: brown;
+}
+button{
+    background-image: url(../images/download\ \(3\).jpg);
+    color: burlywood;
+    margin-top: 15px;
+}
+a{
+    text-transform: none;
+
+}
